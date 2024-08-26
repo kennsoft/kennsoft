@@ -50,6 +50,7 @@
 
 # Github stats
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kennsoft&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical&hide_stars=false" />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 <!-- # Dev Card -->
 <!--   <a href="https://app.daily.dev/kennsoft"><img src="https://api.daily.dev/devcards/39e1435602ca4864903a972049119609.png?r=kfq" width="200" alt="Kennedy Onyango's Dev Card"/></a> -->
 <!--
