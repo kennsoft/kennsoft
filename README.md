@@ -1,7 +1,7 @@
 ## Hi I'm Ken 👋
 
 <p>
-  Software Engineer | Python | Java | Vue.js | Nuxt.js | Node.js | Express.js | Typescript
+  Software Engineer | Python | Java | Vue.js | Nuxt.js | Node.js | Express.js | Typescript | Flutter
 </p>
 
 # Skills and Tools
